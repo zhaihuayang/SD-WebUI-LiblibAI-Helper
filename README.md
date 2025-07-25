@@ -34,7 +34,7 @@
 
 1. 关闭 WebUI（如果正在运行）
 2. 进入 WebUI 的 `extensions` 目录
-3. 克隆本仓库：`git clone https://github.com/yourusername/stable-diffusion-webui-liblibai-plugin.git`
+3. 克隆本仓库：`git clone https://github.com/zhaihuayang/SD-WebUI-LiblibAI-Helper.git`
 4. 重启 WebUI
 
 ## 依赖项
@@ -118,7 +118,7 @@
 
 ### API 密钥在哪里获取？
 
-您需要在 [liblibAI 官网](https://liblibai.com) 注册账号并创建 API 密钥。
+您需要在 [liblibAI 官网](https://www.liblib.art) 注册账号并创建 API 密钥。
 
 ### 为什么生成图像失败？
 
@@ -175,7 +175,7 @@ liblibAI 的模型访问权限可能受到账户类型和权限的限制。请�
 
 - [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 - [Civitai Helper](https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper)
-- [liblibAI](https://liblibai.com)
+- [liblibAI](https://www.liblib.art)
 
 ## 贡献
 
@@ -185,5 +185,5 @@ liblibAI 的模型访问权限可能受到账户类型和权限的限制。请�
 
 如有问题或建议，请通过以下方式联系我们：
 
-- GitHub Issues：[提交问题](https://github.com/yourusername/stable-diffusion-webui-liblibai-plugin/issues)
-- 电子邮件：your.email@example.com
+- GitHub Issues：[提交问题](https://github.com/zhaihuayang/SD-WebUI-LiblibAI-Helper/issues)
+- 电子邮件：zhaihuayanghahaha@163.com
